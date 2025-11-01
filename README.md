@@ -54,3 +54,11 @@ This is a Spring Boot based RESTful application that manages cricket league matc
 
 Integration tests are included, which post sample match results from JSON files and validate the computed scoreboard. Run all tests with:
 - mvn test
+
+# Results
+
+![Screenshot 2025-11-01 230730](https://github.com/user-attachments/assets/f24538aa-846e-4b01-88b2-fdf6a02af3ab)
+
+![Screenshot 2025-11-01 230756](https://github.com/user-attachments/assets/83569669-2731-4c81-8659-4d0cd97c2f6c)
+
+![Screenshot 2025-11-01 230712](https://github.com/user-attachments/assets/ade10fae-9fd0-4390-9066-273323e76e02)
