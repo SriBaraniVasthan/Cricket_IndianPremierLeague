@@ -1,0 +1,17 @@
+{
+  "id": 86,
+  "name": "Ahmedabad",
+  "seqNo": 86,
+  "teamResults": [
+    {
+      "team": "Gujarat Titans",
+      "runs": 124,
+      "winPercentage": 57.41
+    },
+    {
+      "team": "Delhi Capitals",
+      "runs": 92,
+      "winPercentage": 42.59
+    }
+  ]
+}

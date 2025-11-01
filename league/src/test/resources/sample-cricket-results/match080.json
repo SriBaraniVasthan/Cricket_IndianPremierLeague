@@ -1,0 +1,17 @@
+{
+  "id": 80,
+  "name": "Lucknow",
+  "seqNo": 80,
+  "teamResults": [
+    {
+      "team": "Lucknow Super Giants",
+      "runs": 144,
+      "winPercentage": 46.75
+    },
+    {
+      "team": "Sunrisers Hyderabad",
+      "runs": 164,
+      "winPercentage": 53.25
+    }
+  ]
+}

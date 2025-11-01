@@ -1,0 +1,17 @@
+{
+  "id": 2,
+  "name": "Chennai",
+  "seqNo": 2,
+  "teamResults": [
+    {
+      "team": "Chennai Super Kings",
+      "runs": 233,
+      "winPercentage": 64.54
+    },
+    {
+      "team": "Kolkata Knight Riders",
+      "runs": 128,
+      "winPercentage": 35.46
+    }
+  ]
+}

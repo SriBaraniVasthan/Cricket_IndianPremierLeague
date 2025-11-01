@@ -1,0 +1,17 @@
+{
+  "id": 69,
+  "name": "Hyderabad",
+  "seqNo": 69,
+  "teamResults": [
+    {
+      "team": "Sunrisers Hyderabad",
+      "runs": 215,
+      "winPercentage": 66.98
+    },
+    {
+      "team": "Punjab Kings",
+      "runs": 106,
+      "winPercentage": 33.02
+    }
+  ]
+}

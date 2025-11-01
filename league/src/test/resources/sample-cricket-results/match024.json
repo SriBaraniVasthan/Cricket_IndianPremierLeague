@@ -1,0 +1,17 @@
+{
+  "id": 24,
+  "name": "Kolkata",
+  "seqNo": 24,
+  "teamResults": [
+    {
+      "team": "Kolkata Knight Riders",
+      "runs": 156,
+      "winPercentage": 38.61
+    },
+    {
+      "team": "Rajasthan Royals",
+      "runs": 248,
+      "winPercentage": 61.39
+    }
+  ]
+}

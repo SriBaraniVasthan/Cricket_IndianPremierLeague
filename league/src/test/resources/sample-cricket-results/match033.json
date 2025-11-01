@@ -1,0 +1,17 @@
+{
+  "id": 33,
+  "name": "Bengaluru",
+  "seqNo": 33,
+  "teamResults": [
+    {
+      "team": "Royal Challengers Bangalore",
+      "runs": 133,
+      "winPercentage": 43.04
+    },
+    {
+      "team": "Rajasthan Royals",
+      "runs": 176,
+      "winPercentage": 56.96
+    }
+  ]
+}

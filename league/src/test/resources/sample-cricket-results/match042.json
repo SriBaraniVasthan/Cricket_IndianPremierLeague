@@ -1,0 +1,17 @@
+{
+  "id": 42,
+  "name": "Delhi",
+  "seqNo": 42,
+  "teamResults": [
+    {
+      "team": "Delhi Capitals",
+      "runs": 162,
+      "winPercentage": 56.06
+    },
+    {
+      "team": "Rajasthan Royals",
+      "runs": 127,
+      "winPercentage": 43.94
+    }
+  ]
+}

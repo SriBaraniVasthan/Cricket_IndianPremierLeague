@@ -1,0 +1,17 @@
+{
+  "id": 84,
+  "name": "Ahmedabad",
+  "seqNo": 84,
+  "teamResults": [
+    {
+      "team": "Gujarat Titans",
+      "runs": 72,
+      "winPercentage": 25.53
+    },
+    {
+      "team": "Kolkata Knight Riders",
+      "runs": 210,
+      "winPercentage": 74.47
+    }
+  ]
+}

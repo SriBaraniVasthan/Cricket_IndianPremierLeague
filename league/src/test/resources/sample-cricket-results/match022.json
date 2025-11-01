@@ -1,0 +1,17 @@
+{
+  "id": 22,
+  "name": "Kolkata",
+  "seqNo": 22,
+  "teamResults": [
+    {
+      "team": "Kolkata Knight Riders",
+      "runs": 185,
+      "winPercentage": 64.91
+    },
+    {
+      "team": "Delhi Capitals",
+      "runs": 100,
+      "winPercentage": 35.09
+    }
+  ]
+}

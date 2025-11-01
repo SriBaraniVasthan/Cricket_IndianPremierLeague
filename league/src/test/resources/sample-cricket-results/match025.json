@@ -1,0 +1,17 @@
+{
+  "id": 25,
+  "name": "Kolkata",
+  "seqNo": 25,
+  "teamResults": [
+    {
+      "team": "Kolkata Knight Riders",
+      "runs": 134,
+      "winPercentage": 36.12
+    },
+    {
+      "team": "Sunrisers Hyderabad",
+      "runs": 237,
+      "winPercentage": 63.88
+    }
+  ]
+}

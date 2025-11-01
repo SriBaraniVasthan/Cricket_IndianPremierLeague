@@ -1,0 +1,17 @@
+{
+  "id": 18,
+  "name": "Mumbai",
+  "seqNo": 18,
+  "teamResults": [
+    {
+      "team": "Mumbai Indians",
+      "runs": 186,
+      "winPercentage": 60.78
+    },
+    {
+      "team": "Gujarat Titans",
+      "runs": 120,
+      "winPercentage": 39.22
+    }
+  ]
+}

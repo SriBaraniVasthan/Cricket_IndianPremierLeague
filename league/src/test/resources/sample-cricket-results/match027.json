@@ -1,0 +1,17 @@
+{
+  "id": 27,
+  "name": "Kolkata",
+  "seqNo": 27,
+  "teamResults": [
+    {
+      "team": "Kolkata Knight Riders",
+      "runs": 128,
+      "winPercentage": 40.38
+    },
+    {
+      "team": "Gujarat Titans",
+      "runs": 189,
+      "winPercentage": 59.62
+    }
+  ]
+}

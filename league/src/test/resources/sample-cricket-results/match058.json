@@ -1,0 +1,17 @@
+{
+  "id": 58,
+  "name": "Jaipur",
+  "seqNo": 58,
+  "teamResults": [
+    {
+      "team": "Rajasthan Royals",
+      "runs": 175,
+      "winPercentage": 42.17
+    },
+    {
+      "team": "Royal Challengers Bangalore",
+      "runs": 240,
+      "winPercentage": 57.83
+    }
+  ]
+}

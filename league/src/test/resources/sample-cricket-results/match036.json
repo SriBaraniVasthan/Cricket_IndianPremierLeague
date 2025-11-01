@@ -1,0 +1,17 @@
+{
+  "id": 36,
+  "name": "Bengaluru",
+  "seqNo": 36,
+  "teamResults": [
+    {
+      "team": "Royal Challengers Bangalore",
+      "runs": 123,
+      "winPercentage": 62.76
+    },
+    {
+      "team": "Gujarat Titans",
+      "runs": 73,
+      "winPercentage": 37.24
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 90,
+  "name": "Ahmedabad",
+  "seqNo": 90,
+  "teamResults": [
+    {
+      "team": "Gujarat Titans",
+      "runs": 159,
+      "winPercentage": 49.84
+    },
+    {
+      "team": "Lucknow Super Giants",
+      "runs": 160,
+      "winPercentage": 50.16
+    }
+  ]
+}

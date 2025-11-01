@@ -1,0 +1,17 @@
+{
+  "id": 73,
+  "name": "Lucknow",
+  "seqNo": 73,
+  "teamResults": [
+    {
+      "team": "Lucknow Super Giants",
+      "runs": 119,
+      "winPercentage": 35.84
+    },
+    {
+      "team": "Chennai Super Kings",
+      "runs": 213,
+      "winPercentage": 64.16
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 47,
+  "name": "Mohali",
+  "seqNo": 47,
+  "teamResults": [
+    {
+      "team": "Punjab Kings",
+      "runs": 63,
+      "winPercentage": 40.38
+    },
+    {
+      "team": "Mumbai Indians",
+      "runs": 93,
+      "winPercentage": 59.62
+    }
+  ]
+}

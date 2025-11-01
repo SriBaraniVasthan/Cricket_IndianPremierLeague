@@ -1,0 +1,17 @@
+{
+  "id": 67,
+  "name": "Hyderabad",
+  "seqNo": 67,
+  "teamResults": [
+    {
+      "team": "Sunrisers Hyderabad",
+      "runs": 228,
+      "winPercentage": 47.7
+    },
+    {
+      "team": "Royal Challengers Bangalore",
+      "runs": 250,
+      "winPercentage": 52.3
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 10,
+  "name": "Mumbai",
+  "seqNo": 10,
+  "teamResults": [
+    {
+      "team": "Mumbai Indians",
+      "runs": 100,
+      "winPercentage": 32.05
+    },
+    {
+      "team": "Chennai Super Kings",
+      "runs": 212,
+      "winPercentage": 67.95
+    }
+  ]
+}

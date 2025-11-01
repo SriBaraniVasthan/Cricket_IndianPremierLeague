@@ -1,0 +1,17 @@
+{
+  "id": 89,
+  "name": "Ahmedabad",
+  "seqNo": 89,
+  "teamResults": [
+    {
+      "team": "Gujarat Titans",
+      "runs": 107,
+      "winPercentage": 64.85
+    },
+    {
+      "team": "Sunrisers Hyderabad",
+      "runs": 58,
+      "winPercentage": 35.15
+    }
+  ]
+}

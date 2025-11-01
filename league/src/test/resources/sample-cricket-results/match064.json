@@ -1,0 +1,17 @@
+{
+  "id": 64,
+  "name": "Hyderabad",
+  "seqNo": 64,
+  "teamResults": [
+    {
+      "team": "Sunrisers Hyderabad",
+      "runs": 64,
+      "winPercentage": 21.77
+    },
+    {
+      "team": "Chennai Super Kings",
+      "runs": 230,
+      "winPercentage": 78.23
+    }
+  ]
+}

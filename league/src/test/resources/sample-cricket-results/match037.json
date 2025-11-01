@@ -1,0 +1,17 @@
+{
+  "id": 37,
+  "name": "Delhi",
+  "seqNo": 37,
+  "teamResults": [
+    {
+      "team": "Delhi Capitals",
+      "runs": 144,
+      "winPercentage": 36.92
+    },
+    {
+      "team": "Chennai Super Kings",
+      "runs": 246,
+      "winPercentage": 63.08
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 85,
+  "name": "Ahmedabad",
+  "seqNo": 85,
+  "teamResults": [
+    {
+      "team": "Gujarat Titans",
+      "runs": 205,
+      "winPercentage": 45.25
+    },
+    {
+      "team": "Royal Challengers Bangalore",
+      "runs": 248,
+      "winPercentage": 54.75
+    }
+  ]
+}

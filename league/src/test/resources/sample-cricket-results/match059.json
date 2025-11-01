@@ -1,0 +1,17 @@
+{
+  "id": 59,
+  "name": "Jaipur",
+  "seqNo": 59,
+  "teamResults": [
+    {
+      "team": "Rajasthan Royals",
+      "runs": 191,
+      "winPercentage": 64.09
+    },
+    {
+      "team": "Delhi Capitals",
+      "runs": 107,
+      "winPercentage": 35.91
+    }
+  ]
+}

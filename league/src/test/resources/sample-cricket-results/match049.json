@@ -1,0 +1,17 @@
+{
+  "id": 49,
+  "name": "Mohali",
+  "seqNo": 49,
+  "teamResults": [
+    {
+      "team": "Punjab Kings",
+      "runs": 112,
+      "winPercentage": 31.73
+    },
+    {
+      "team": "Royal Challengers Bangalore",
+      "runs": 241,
+      "winPercentage": 68.27
+    }
+  ]
+}
