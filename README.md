@@ -59,4 +59,8 @@ This is a Spring Boot based RESTful application that manages cricket league matc
 Python script to generate test data for 90 IPL matches(2 games against one opponent: Home and Away):  https://github.com/SriBaraniVasthan/Cricket_IndianPremierLeague/blob/main/iplMatchTestDataGenerator.py
 
 Integration tests are included, which post sample match results from JSON files and validate the computed scoreboard. Run all tests with:
-- mvn test
+- mvn test and Junit tests
+- ![Screenshot 2025-11-01 234301](https://github.com/user-attachments/assets/192675b3-ab57-48fe-9cef-2a747808c7d1)
+- ![Screenshot 2025-11-01 234509](https://github.com/user-attachments/assets/6482c1df-b563-4b39-b1a4-f0779827bfc1)
+
+
